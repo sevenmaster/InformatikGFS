@@ -1,11 +1,3 @@
-%% start of file `template.tex'.
-%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
-%
-% This work may be distributed and/or modified under the
-% conditions of the LaTeX Project Public License version 1.3c,
-% available at http://www.latex-project.org/lppl/.
-
-
 \documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
 
 % modern themes
@@ -67,7 +59,15 @@
 
 \vspace{6pt}
 
-\item{\cventry{}{git branch; git checkout}{branching}{}{}{\vspace{3pt}Mit einem Commit speichert man die aktuelle Version von Dateien oder Verzeichnisse. Ein Commit einhält nicht nur eine Referenz auf den eingepflegten Zustand des Projekts, sondern enthält auch Autor, eine Beschreibung der vorgenommenen Änderungen, sowie den Namen des vorangegangenen Commit. Commits sind, wie alle Git-Objekte, mit ihrer SHA1 eindeutig benannt.}}
+\item{\cventry{}{git branch; git checkout}{branching}{}{}{\vspace{3pt}Um parallel an mehreren Versionen arbeiten zu können, gibt es sogenannte Branches (engl. für Zweige). Branches können unterschiedlich genutzt werden. Zum Beispiel um eine stabil laufende Version eines Programms zur Verfügung zu haben, während man in einem anderen Branch an neuen Funktionen arbeitet.}}
+
+\section{Objekte}
+Git speichert alles in Objekten ($\neq$ Objekte in OOP). Es gibt verschiedene Arten von Objekten.
+\vspace{6pt}
+\item{\cventry{}{Enthält den Inhalt einzelner Dateien. Blob ist kurz für Binary Large Object.}{Blob}{}{}{}}
+\item{\cventry{}{Bildet Ordnerstruktur ab. Kann weitere Trees oder Blobs enthalten}{Tree}{}{}{}}
+\item{\cventry{}{Stellt wie oben beschrieben eine Version dar. Die Referenz auf die Änderungen ist ein Tree.}{Commit}{}{}{}}
+\item{\cventry{}{Tags zeigen auf einen Commit. Mit Tags können wichtige Versionen markiert und benannt werden.}{Tag}{}{}{(Außerdem zeigen spezielle Tags auf den neusten Commit eines Braches, so werden Branches intern realisert. Der Tag HEAD markiert die Version auf der momentan gearbeitet wird.)}}
 
 \end{itemize}
 

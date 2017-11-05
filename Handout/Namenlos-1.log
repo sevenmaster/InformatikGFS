@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.30)  5 NOV 2017 16:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.30)  5 NOV 2017 19:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -879,28 +879,28 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip80
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 49.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 49.
+Package hyperref Info: Option `breaklinks' set `true' on input line 41.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 41.
 
 (./Namenlos-1.aux)
 \openout1 = `Namenlos-1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -932,7 +932,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 49.
+LaTeX Info: Redefining \microtypecontext on input line 41.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -946,7 +946,7 @@ Package microtype Info: No adjustment of character kerning.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 49.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 41.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -991,7 +991,7 @@ Package microtype Info: Loading generic settings for font family
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box46
-Package hyperref Info: Link coloring OFF on input line 49.
+Package hyperref Info: Link coloring OFF on input line 41.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1000,22 +1000,22 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count140
 )
-LaTeX Info: Redefining \ref on input line 49.
-LaTeX Info: Redefining \pageref on input line 49.
-LaTeX Info: Redefining \nameref on input line 49.
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
 
 (./Namenlos-1.out) (./Namenlos-1.out)
 \@outlinefile=\write3
 \openout3 = `Namenlos-1.out'.
 
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <24.88> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 52.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 44.
 
-Overfull \hbox (1.92358pt too wide) in paragraph at lines 52--52
+Overfull \hbox (1.92358pt too wide) in paragraph at lines 44--44
  []|[][] 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 52.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 44.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1023,46 +1023,66 @@ File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 52.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 44.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 52.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 44.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 52.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 44.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 52.
+(Font)              <10.95> on input line 44.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 52.
+(Font)              <8> on input line 44.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 52.
+(Font)              <6> on input line 44.
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--52
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
 
  []
 
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <14.4> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 56.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 48.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 62.
+(Font)              <10> on input line 54.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 62.
+(Font)              <7> on input line 54.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 62.
+(Font)              <5> on input line 54.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 62.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 62.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 54.
+
+Overfull \hbox (10.88788pt too wide) in paragraph at lines 54--54
+[][] 
+ []
+
+
+Overfull \hbox (10.88788pt too wide) in paragraph at lines 54--54
+[]$ 
+ []
+
+
+Overfull \hbox (10.88788pt too wide) in paragraph at lines 58--58
+[][] 
+ []
+
+
+Overfull \hbox (10.88788pt too wide) in paragraph at lines 58--58
+[]$ 
+ []
+
 
 Overfull \hbox (10.88788pt too wide) in paragraph at lines 62--62
 [][] 
@@ -1074,13 +1094,18 @@ Overfull \hbox (10.88788pt too wide) in paragraph at lines 62--62
  []
 
 
-Overfull \hbox (10.88788pt too wide) in paragraph at lines 66--66
+Overfull \hbox (10.88788pt too wide) in paragraph at lines 67--67
 [][] 
  []
 
 
-Overfull \hbox (10.88788pt too wide) in paragraph at lines 66--66
-[]$ 
+Overfull \hbox (10.88788pt too wide) in paragraph at lines 68--68
+[][] 
+ []
+
+
+Overfull \hbox (10.88788pt too wide) in paragraph at lines 69--69
+[][] 
  []
 
 
@@ -1103,38 +1128,31 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
 (./Namenlos-1.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
-
-
-Package rerunfilecheck Warning: File `Namenlos-1.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Namenlos-1.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  593332BA99B6C49CBF4F320FF67EB790;151.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `Namenlos-1.out' has not changed.
+(rerunfilecheck)             Checksum: FFC20E5786E2D3475FC020ADD395302C;229.
  ) 
 Here is how much of TeX's memory you used:
- 20682 strings out of 493013
- 341869 string characters out of 6133328
- 412268 words of memory out of 5000000
- 23994 multiletter control sequences out of 15000+600000
- 59197 words of font info for 58 fonts, out of 8000000 for 9000
+ 20688 strings out of 493013
+ 341929 string characters out of 6133328
+ 415395 words of memory out of 5000000
+ 23997 multiletter control sequences out of 15000+600000
+ 59298 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,11n,45p,10362b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
-texlive/2016/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</usr/lo
-cal/texlive/2016/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></us
-r/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/te
-xlive/2016/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2016/texmf-d
-ist/fonts/type1/public/lm/lmsso10.pfb>
-Output written on Namenlos-1.pdf (1 page, 109525 bytes).
+ 49i,11n,45p,10362b,376s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/
+texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/20
+16/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2016/texmf-dist/
+fonts/enc/dvips/fontawesome/fontawesometwo.enc}</usr/local/texlive/2016/texmf-d
+ist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/public/lm/lmss10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/p
+ublic/lm/lmss17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/l
+mssbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsso10.p
+fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on Namenlos-1.pdf (1 page, 121551 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
- 14337 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 57 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
+ 4 named destinations out of 1000 (max. 500000)
+ 14353 words of extra memory for PDF output out of 14400 (max. 10000000)
 
