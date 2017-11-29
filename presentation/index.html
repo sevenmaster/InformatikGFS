@@ -112,7 +112,7 @@
 					<img src="res/MergeKonflikte" style="width: 200%">
 				</section>
 				<section>
-					<h2>Git hosting<h2>
+					<h2>Git hosting</h2>
 						<img src="./res/github-logo.png" width="734px">
 					  <img src="./res/gitlab-logo.png">
 				</section>
@@ -137,7 +137,13 @@ github.com/sevenmaster/InformatikGFS
 			// - https://github.com/hakimel/reveal.js#configuration
 			// - https://github.com/hakimel/reveal.js#dependencies
 			Reveal.initialize({
-				dependencies: [
+                progress: false,
+                history: true,
+                center: true,
+				controls: false,
+				slideNumber: true,
+                transition: 'concave', // none/fade/slide/convex/concave/zoom
+                dependencies: [
 					{ src: 'plugin/markdown/marked.js' },
 					{ src: 'plugin/markdown/markdown.js' },
 					{ src: 'plugin/notes/notes.js', async: true },
