@@ -21,7 +21,7 @@
 \name{GFS}{Informatik}
 \title{Versionskontrolle}                               % optional, remove / comment the line if not wanted
 \address{Liam Wachter, TGI 13/2}{}{}% optional, remove / comment the line if not wanted; the "postcode 
-\homepage{github.com/sevenmaster/InformatikGFS Dieses Handout in digital und bunt}                         % optional, remove / comment the line if not wanted
+\homepage{github.com/sevenmaster/InformatikGFS, dieses Handout in digital und bunt}                         % optional, remove / comment the line if not wanted
 %\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
 %\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
 %\quote{Some quote}                                 % optional, remove / comment the line if not wanted
@@ -51,15 +51,15 @@
 
 \begin{itemize}
 
-\item{\cventry{}{git fetch; git merge; git push}{copy - modify - merge}{}{}{\vspace{3pt}Damit mehrere Entwickler gleichzeitig an der gleichen Datei arbeiten können wird kopiert sich jeder Entwickler die aktuelle Version und macht Änderungen daran. Die Änderungen werden später zusammengeführt (gemerged). Das geschieht mit einem Merge-Algorithmus. Kann dieser die Änderungen nicht zusammenführen, da sie im Widerspruch zueinander stehen, spricht man von einem Mergekonflikt. Diese müssen von Menschen aufgelöst werden.}}
+\item{\cventry{}{git fetch; git merge; git push}{copy - modify - merge}{}{}{\vspace{3pt}Damit mehrere Entwickler gleichzeitig an der gleichen Datei arbeiten können, kopiert sich jeder Entwickler die aktuelle Version und macht Änderungen daran. Die Änderungen werden später zusammengeführt (Merge). Das geschieht mit einem Merge-Algorithmus. Kann dieser die Änderungen nicht zusammenführen, da sie im Widerspruch zueinander stehen, spricht man von einem Mergekonflikt, der von einem Mensch aufgelöst werden muss.}}
 
 \vspace{6pt}
 
-\item{\cventry{}{git commit}{Commit}{}{}{\vspace{3pt}Mit einem Commit speichert man die aktuelle Version von Dateien oder Verzeichnisse. Ein Commit einhält nicht nur eine Referenz auf den eingepflegten Zustand des Projekts, sondern enthält auch Autor, eine Beschreibung der vorgenommenen Änderungen, sowie den Namen des vorangegangenen Commit. Commits sind, wie alle Git-Objekte, mit ihrer SHA1 eindeutig benannt.}}
+\item{\cventry{}{git commit}{commit}{}{}{\vspace{3pt}Mit einem Commit speichert man den aktuellen Zustand von Dateien oder Verzeichnissen. Ein Commit enthält nicht nur eine Referenz auf den eingepflegten Zustand des Projekts (Roottree s.u), sondern enthält auch Autor, eine Beschreibung der vorgenommenen Änderungen, sowie den Namen des vorangegangenen Commit. Commits sind, wie alle Git-Objekte, mit ihrem SHA1-Prüfwert eindeutig benannt.}}
 
 \vspace{6pt}
 
-\item{\cventry{}{git branch; git checkout}{branching}{}{}{\vspace{3pt}Um parallel an mehreren Versionen arbeiten zu können, gibt es sogenannte Branches (engl. für Zweige). Branches können unterschiedlich genutzt werden. Zum Beispiel um eine stabil laufende Version eines Programms zur Verfügung zu haben, während man in einem anderen Branch an neuen Funktionen arbeitet.}}
+\item{\cventry{}{git branch; git checkout}{branching}{}{}{\vspace{3pt}Um parallel an mehreren Versionen arbeiten zu können, gibt es sogenannte Branches (engl. für Zweige). Branches können unterschiedlich genutzt werden, zum Beispiel um eine stabil laufende Version eines Programms zur Verfügung zu haben, während man in einem anderen Branch an neuen Funktionen arbeitet.}}
 
 \section{Objekte}
 Git speichert alles in Objekten ($\neq$ Objekte in OOP). Es gibt verschiedene Arten von Objekten.
@@ -67,7 +67,7 @@ Git speichert alles in Objekten ($\neq$ Objekte in OOP). Es gibt verschiedene Ar
 \item{\cventry{}{Enthält den Inhalt einzelner Dateien. Blob ist kurz für Binary Large Object.}{Blob}{}{}{}}
 \item{\cventry{}{Bildet Ordnerstruktur ab. Kann weitere Trees oder Blobs enthalten}{Tree}{}{}{}}
 \item{\cventry{}{Stellt wie oben beschrieben eine Version dar. Die Referenz auf die Änderungen ist ein Tree.}{Commit}{}{}{}}
-\item{\cventry{}{Tags zeigen auf einen Commit. Mit Tags können wichtige Versionen markiert und benannt werden.}{Tag}{}{}{(Außerdem zeigen spezielle Tags auf den neusten Commit eines Braches, so werden Branches intern realisert. Der Tag HEAD markiert die Version auf der momentan gearbeitet wird.)}}
+\item{\cventry{}{Tags zeigen auf einen Commit. Mit Tags können wichtige Versionen markiert und benannt werden.}{Tag}{}{}{(Außerdem zeigen spezielle Tags auf den neuesten Commit eines Brach. So werden Branches intern realisert. Der Tag HEAD markiert die Version auf der momentan gearbeitet wird.)}}
 
 \end{itemize}
 
