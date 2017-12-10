@@ -32,4 +32,7 @@
 7. Aufbau
 	Grafik erlären
 8. Wichtige Operationen
-9. 
+9.1 Ein Commit
+	Stellt eine eingepflegt Versin dar
+	Benennug: Bezug Prüfsummen
+	 
